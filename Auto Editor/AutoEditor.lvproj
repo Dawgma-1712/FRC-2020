@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="18008000">
+<Project Type="Project" LVVersion="19008000">
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -64,7 +64,7 @@
 			</Item>
 			<Item Name="AddNewNode.vi" Type="VI" URL="../AutoFileEditor/Utils/AddNewNode.vi"/>
 			<Item Name="ClusterToControls.vi" Type="VI" URL="../PathDrawer/ClusterToControls.vi"/>
-			<Item Name="Constants.vi" Type="VI" URL="../../Robot-Project/Configuration/Constants.vi"/>
+			<Item Name="Constants.vi" Type="VI" URL="../../Robot Project/Configuration/Constants.vi"/>
 			<Item Name="ControlsToCluster.vi" Type="VI" URL="../PathDrawer/ControlsToCluster.vi"/>
 			<Item Name="CreateNiceXMLString.vi" Type="VI" URL="../AutoFileEditor/Utils/CreateNiceXMLString.vi"/>
 			<Item Name="DistanceFormula.vi" Type="VI" URL="../PathDrawer/DistanceFormula.vi"/>
