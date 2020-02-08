@@ -77,11 +77,11 @@
 			<Item Name="PathFileData.ctl" Type="VI" URL="../../Dawgma Programming Library/Controls/PurePursuit/PathFileData.ctl"/>
 			<Item Name="RobotNeededPathData.ctl" Type="VI" URL="../../Dawgma Programming Library/Controls/PurePursuit/RobotNeededPathData.ctl"/>
 			<Item Name="Drive Path.vi" Type="VI" URL="../Drive/Commands/Drive Path.vi"/>
-			<Item Name="Template for Intake Immediate.vit" Type="VI" URL="../Intake/Commands/Template for Intake Immediate.vit"/>
-			<Item Name="Intake Setpoints.ctl" Type="VI" URL="../Intake/Implementation/Intake Setpoints.ctl"/>
-			<Item Name="Intake Operations.ctl" Type="VI" URL="../Intake/Implementation/Intake Operations.ctl"/>
-			<Item Name="Intake Command Helper.vi" Type="VI" URL="../Intake/Implementation/Infrastructure/Intake Command Helper.vi"/>
-			<Item Name="Intake Published Globals.vi" Type="VI" URL="../Intake/Implementation/Intake Published Globals.vi"/>
+			<Item Name="Singulator Immediate.vi" Type="VI" URL="../Singulator/Commands/Singulator Immediate.vi"/>
+			<Item Name="Singulator Setpoints.ctl" Type="VI" URL="../Singulator/Implementation/Singulator Setpoints.ctl"/>
+			<Item Name="Singulator Operations.ctl" Type="VI" URL="../Singulator/Implementation/Singulator Operations.ctl"/>
+			<Item Name="Singulator Command Helper.vi" Type="VI" URL="../Singulator/Implementation/Infrastructure/Singulator Command Helper.vi"/>
+			<Item Name="Singulator Published Globals.vi" Type="VI" URL="../Singulator/Implementation/Singulator Published Globals.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
