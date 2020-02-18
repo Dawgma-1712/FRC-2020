@@ -134,6 +134,12 @@
 			<Item Name="Feed Command Helper.vi" Type="VI" URL="../Feed/Implementation/Infrastructure/Feed Command Helper.vi"/>
 			<Item Name="Feed Published Globals.vi" Type="VI" URL="../Feed/Implementation/Feed Published Globals.vi"/>
 			<Item Name="Flip on Push.vi" Type="VI" URL="../Intake/Commands/Flip on Push.vi"/>
+			<Item Name="Drive Teleop.vi" Type="VI" URL="../Drive/Drive Teleop.vi"/>
+			<Item Name="Shooter Teleop.vi" Type="VI" URL="../Shooter/Shooter Teleop.vi"/>
+			<Item Name="Shooter Immediate.vi" Type="VI" URL="../Shooter/Commands/Shooter Immediate.vi"/>
+			<Item Name="Intake Teleop.vi" Type="VI" URL="../Intake/Intake Teleop.vi"/>
+			<Item Name="Singulator Teleop.vi" Type="VI" URL="../Singulator/Singulator Teleop.vi"/>
+			<Item Name="Feed Teleop.vi" Type="VI" URL="../Feed/Feed Teleop.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -821,10 +827,7 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="CheesyDrive.vi" Type="VI" URL="../../Dawgma Programming Library/WPI Helper Stuff/CheesyDrive.vi"/>
-			<Item Name="LinearInterpolate.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/LinearInterpolate.vi"/>
 			<Item Name="RateLimiter.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/RateLimiter.vi"/>
-			<Item Name="HandleDeadband.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/HandleDeadband.vi"/>
 			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
 			<Item Name="derivative.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/derivative.vi"/>
 			<Item Name="CalculatePowerPursuit.vi" Type="VI" URL="../../Dawgma Programming Library/Controls/PurePursuit/CalculatePowerPursuit.vi"/>
@@ -850,6 +853,9 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="ToggleOnPress.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/ToggleOnPress.vi"/>
+			<Item Name="LinearInterpolate.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/LinearInterpolate.vi"/>
+			<Item Name="CheesyDrive.vi" Type="VI" URL="../../Dawgma Programming Library/WPI Helper Stuff/CheesyDrive.vi"/>
+			<Item Name="HandleDeadband.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/HandleDeadband.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
