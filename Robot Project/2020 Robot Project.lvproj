@@ -156,7 +156,10 @@
 			<Item Name="Feed Teleop.vi" Type="VI" URL="../Feed/Feed Teleop.vi"/>
 			<Item Name="SimpleVisionAlign.vi" Type="VI" URL="../Vision/SimpleVisionAlign.vi"/>
 			<Item Name="SmallestAngle.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/SmallestAngle.vi"/>
-			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="Intake for time.vi" Type="VI" URL="../Intake/Commands/Intake for time.vi"/>
+			<Item Name="Singulate for time.vi" Type="VI" URL="../Singulator/Commands/Singulate for time.vi"/>
+			<Item Name="Feed For Time.vi" Type="VI" URL="../Feed/Commands/Feed For Time.vi"/>
+			<Item Name="Auto Align.vi" Type="VI" URL="../Drive/Commands/Auto Align.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -272,6 +275,9 @@ AddOutputFilter chunkFilter
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Configuration" Type="Folder" URL="../Configuration">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Auto" Type="Folder" URL="../Auto">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
@@ -874,6 +880,12 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="ToggleOnPress.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/ToggleOnPress.vi"/>
 			<Item Name="SmallestAngle.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/SmallestAngle.vi"/>
+			<Item Name="Routine.ctl" Type="VI" URL="../../../FRC-2019-master/Dashboard-Project/CustomThings/Routine.ctl"/>
+			<Item Name="CustomError.vi" Type="VI" URL="../../../FRC-2019-master/Dawgma Programming Library/WPI Helper Stuff/CustomError.vi"/>
+			<Item Name="ArrangeValuesByName.vi" Type="VI" URL="../CreateCommands/Utils/ArrangeValuesByName.vi"/>
+			<Item Name="StringToBoolean.vi" Type="VI" URL="../CreateCommands/Utils/StringToBoolean.vi"/>
+			<Item Name="StringToNumber.vi" Type="VI" URL="../CreateCommands/Utils/StringToNumber.vi"/>
+			<Item Name="StringToString.vi" Type="VI" URL="../CreateCommands/Utils/StringToString.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
