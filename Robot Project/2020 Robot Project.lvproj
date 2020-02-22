@@ -160,6 +160,12 @@
 			<Item Name="Singulate for time.vi" Type="VI" URL="../Singulator/Commands/Singulate for time.vi"/>
 			<Item Name="Feed For Time.vi" Type="VI" URL="../Feed/Commands/Feed For Time.vi"/>
 			<Item Name="Auto Align.vi" Type="VI" URL="../Drive/Commands/Auto Align.vi"/>
+			<Item Name="climb teleop.vi" Type="VI" URL="../Climber/climb teleop.vi"/>
+			<Item Name="Climber immediate.vi" Type="VI" URL="../Climber/Commands/Climber immediate.vi"/>
+			<Item Name="Climber Setpoints.ctl" Type="VI" URL="../Climber/Implementation/Climber Setpoints.ctl"/>
+			<Item Name="Climber Operations.ctl" Type="VI" URL="../Climber/Implementation/Climber Operations.ctl"/>
+			<Item Name="Climber Command Helper.vi" Type="VI" URL="../Climber/Implementation/Infrastructure/Climber Command Helper.vi"/>
+			<Item Name="Climber Published Globals.vi" Type="VI" URL="../Climber/Implementation/Climber Published Globals.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
