@@ -979,7 +979,6 @@ AddOutputFilter chunkFilter
 			</Item>
 			<Item Name="ToggleOnPress.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/ToggleOnPress.vi"/>
 			<Item Name="SmallestAngle.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/SmallestAngle.vi"/>
-			<Item Name="Routine.ctl" Type="VI" URL="../../../FRC-2019-master/Dashboard-Project/CustomThings/Routine.ctl"/>
 			<Item Name="CustomError.vi" Type="VI" URL="../../../FRC-2019-master/Dawgma Programming Library/WPI Helper Stuff/CustomError.vi"/>
 			<Item Name="ArrangeValuesByName.vi" Type="VI" URL="../CreateCommands/Utils/ArrangeValuesByName.vi"/>
 			<Item Name="StringToBoolean.vi" Type="VI" URL="../CreateCommands/Utils/StringToBoolean.vi"/>
@@ -993,6 +992,7 @@ AddOutputFilter chunkFilter
 			<Item Name="ProbeFormatting.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ProbeSupport/ProbeFormatting.vi"/>
 			<Item Name="ChannelProbePositionAndTitle.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ChannelProbePositionAndTitle.vi"/>
 			<Item Name="ChannelProbeWindowStagger.vi" Type="VI" URL="/&lt;resource&gt;/ChannelSupport/_ChannelSupport/ChannelProbeWindowStagger.vi"/>
+			<Item Name="StartingLocations.vi" Type="VI" URL="../../Auto Editor/PathDrawer/StartingLocations.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
