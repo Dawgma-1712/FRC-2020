@@ -192,6 +192,7 @@
 			<Item Name="SingulateForTime-C.vi" Type="VI" URL="../Auto/Commands/SingulateForTime-C.vi"/>
 			<Item Name="TurnForAngle-C.vi" Type="VI" URL="../Auto/Commands/TurnForAngle-C.vi"/>
 			<Item Name="Wait-C.vi" Type="VI" URL="../Auto/Commands/Wait-C.vi"/>
+			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
