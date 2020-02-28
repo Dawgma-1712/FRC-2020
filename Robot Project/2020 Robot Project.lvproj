@@ -107,10 +107,6 @@
 				<Item Name="NT Write Variant.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Write Variant.vi"/>
 				<Item Name="lvpidtkt.dll" Type="Document" URL="/&lt;vilib&gt;/addons/control/pid/lvpidtkt.dll"/>
 				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
-				<Item Name="WPI_DriverStationGetModeAndStatus.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGetModeAndStatus.vi"/>
-				<Item Name="WPI_DriverStationGetModeAndStatusInternal.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DriverStation/WPI_DriverStationGetModeAndStatusInternal.vi"/>
-				<Item Name="NetComm_ControlWord.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_ControlWord.ctl"/>
-				<Item Name="NetComm_getControlWord.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_getControlWord.vi"/>
 			</Item>
 			<Item Name="CreateCommandsFromTemplates.vi" Type="VI" URL="../CreateCommands/CreateCommandsFromTemplates.vi"/>
 			<Item Name="WhichVIsShouldRegenerate.vi" Type="VI" URL="../CreateCommands/Utils/WhichVIsShouldRegenerate.vi"/>
@@ -170,8 +166,6 @@
 			<Item Name="Climber Operations.ctl" Type="VI" URL="../Climber/Implementation/Climber Operations.ctl"/>
 			<Item Name="Climber Command Helper.vi" Type="VI" URL="../Climber/Implementation/Infrastructure/Climber Command Helper.vi"/>
 			<Item Name="Climber Published Globals.vi" Type="VI" URL="../Climber/Implementation/Climber Published Globals.vi"/>
-			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
-			<Item Name="Latch.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/Latch.vi"/>
 			<Item Name="ExecuteXML.vi" Type="VI" URL="../Auto/ExecuteXML.vi"/>
 			<Item Name="ParseXML.vi" Type="VI" URL="../Auto/ParseXML.vi"/>
 			<Item Name="FindFirstTagC.vi" Type="VI" URL="../Auto/Util/FindFirstTagC.vi"/>
