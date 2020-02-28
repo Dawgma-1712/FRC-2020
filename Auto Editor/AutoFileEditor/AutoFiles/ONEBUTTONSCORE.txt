@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><Sequential ID="9"><Parallel ID="6"><SingulateForTime ID="7" Speed="0.50" Time="7.00"/><FeedForTime Duration="6.00" Elevate="0.40" Feed="1.00" ID="8"/></Parallel></Sequential>
