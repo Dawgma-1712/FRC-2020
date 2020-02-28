@@ -166,6 +166,34 @@
 			<Item Name="Climber Operations.ctl" Type="VI" URL="../Climber/Implementation/Climber Operations.ctl"/>
 			<Item Name="Climber Command Helper.vi" Type="VI" URL="../Climber/Implementation/Infrastructure/Climber Command Helper.vi"/>
 			<Item Name="Climber Published Globals.vi" Type="VI" URL="../Climber/Implementation/Climber Published Globals.vi"/>
+			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="Latch.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/Latch.vi"/>
+			<Item Name="ExecuteXML.vi" Type="VI" URL="../Auto/ExecuteXML.vi"/>
+			<Item Name="ParseXML.vi" Type="VI" URL="../Auto/ParseXML.vi"/>
+			<Item Name="FindFirstTagC.vi" Type="VI" URL="../Auto/Util/FindFirstTagC.vi"/>
+			<Item Name="FindEmptyElementC.vi" Type="VI" URL="../Auto/Util/FindEmptyElementC.vi"/>
+			<Item Name="FindElementC.vi" Type="VI" URL="../Auto/Util/FindElementC.vi"/>
+			<Item Name="ExecuteCommand.vi" Type="VI" URL="../Auto/ExecuteCommand.vi"/>
+			<Item Name="ArrangeValuesByName.vi" Type="VI" URL="../CreateCommands/Utils/ArrangeValuesByName.vi"/>
+			<Item Name="StringToBoolean.vi" Type="VI" URL="../CreateCommands/Utils/StringToBoolean.vi"/>
+			<Item Name="ParseXMLFragmentsC.vi" Type="VI" URL="../Auto/Util/ParseXMLFragmentsC.vi"/>
+			<Item Name="FindMatchingCloseTagC.vi" Type="VI" URL="../Auto/Util/FindMatchingCloseTagC.vi"/>
+			<Item Name="FindCloseTagByNameC.vi" Type="VI" URL="../Auto/Util/FindCloseTagByNameC.vi"/>
+			<Item Name="FindElementStartByNameC.vi" Type="VI" URL="../Auto/Util/FindElementStartByNameC.vi"/>
+			<Item Name="AutoAlign-C.vi" Type="VI" URL="../Auto/Commands/AutoAlign-C.vi"/>
+			<Item Name="StringToNumber.vi" Type="VI" URL="../CreateCommands/Utils/StringToNumber.vi"/>
+			<Item Name="CheckPiecesToScore-C.vi" Type="VI" URL="../Auto/Commands/CheckPiecesToScore-C.vi"/>
+			<Item Name="DoTeleop-C.vi" Type="VI" URL="../Auto/Commands/DoTeleop-C.vi"/>
+			<Item Name="DriveForDistance-C.vi" Type="VI" URL="../Auto/Commands/DriveForDistance-C.vi"/>
+			<Item Name="DriveForTime-C.vi" Type="VI" URL="../Auto/Commands/DriveForTime-C.vi"/>
+			<Item Name="StringToString.vi" Type="VI" URL="../CreateCommands/Utils/StringToString.vi"/>
+			<Item Name="DrivePath-C.vi" Type="VI" URL="../Auto/Commands/DrivePath-C.vi"/>
+			<Item Name="FeedForTime-C.vi" Type="VI" URL="../Auto/Commands/FeedForTime-C.vi"/>
+			<Item Name="IntakeForTime-C.vi" Type="VI" URL="../Auto/Commands/IntakeForTime-C.vi"/>
+			<Item Name="ShootForTime-C.vi" Type="VI" URL="../Auto/Commands/ShootForTime-C.vi"/>
+			<Item Name="SingulateForTime-C.vi" Type="VI" URL="../Auto/Commands/SingulateForTime-C.vi"/>
+			<Item Name="TurnForAngle-C.vi" Type="VI" URL="../Auto/Commands/TurnForAngle-C.vi"/>
+			<Item Name="Wait-C.vi" Type="VI" URL="../Auto/Commands/Wait-C.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -911,6 +939,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
+				<Item Name="CTRE_Phoenix_MotorControl_NeutralMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix-LabVIEW/Motor Controller/Controls/CTRE_Phoenix_MotorControl_NeutralMode.ctl"/>
+				<Item Name="CTRE_Phoenix_MotorControl_SetNeutralMode.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Phoenix-LabVIEW/Motor Controller/CTRE_Phoenix_MotorControl_SetNeutralMode.vi"/>
 			</Item>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
