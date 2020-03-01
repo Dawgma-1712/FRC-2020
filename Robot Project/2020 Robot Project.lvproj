@@ -180,6 +180,10 @@
 			<Item Name="FindElementStartByNameC.vi" Type="VI" URL="../Auto/Util/FindElementStartByNameC.vi"/>
 			<Item Name="AutoAlign-C.vi" Type="VI" URL="../Auto/Commands/AutoAlign-C.vi"/>
 			<Item Name="StringToNumber.vi" Type="VI" URL="../CreateCommands/Utils/StringToNumber.vi"/>
+			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="Reserve Feed.vi" Type="VI" URL="../Feed/Commands/Reserve Feed.vi"/>
+			<Item Name="Reserve Singulator.vi" Type="VI" URL="../Singulator/Commands/Reserve Singulator.vi"/>
+			<Item Name="AutoScore-C.vi" Type="VI" URL="../Auto/Commands/AutoScore-C.vi"/>
 			<Item Name="CheckPiecesToScore-C.vi" Type="VI" URL="../Auto/Commands/CheckPiecesToScore-C.vi"/>
 			<Item Name="DoTeleop-C.vi" Type="VI" URL="../Auto/Commands/DoTeleop-C.vi"/>
 			<Item Name="DriveForDistance-C.vi" Type="VI" URL="../Auto/Commands/DriveForDistance-C.vi"/>
@@ -192,9 +196,6 @@
 			<Item Name="SingulateForTime-C.vi" Type="VI" URL="../Auto/Commands/SingulateForTime-C.vi"/>
 			<Item Name="TurnForAngle-C.vi" Type="VI" URL="../Auto/Commands/TurnForAngle-C.vi"/>
 			<Item Name="Wait-C.vi" Type="VI" URL="../Auto/Commands/Wait-C.vi"/>
-			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
-			<Item Name="Reserve Feed.vi" Type="VI" URL="../Feed/Commands/Reserve Feed.vi"/>
-			<Item Name="Reserve Singulator.vi" Type="VI" URL="../Singulator/Commands/Reserve Singulator.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
@@ -1013,7 +1014,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
