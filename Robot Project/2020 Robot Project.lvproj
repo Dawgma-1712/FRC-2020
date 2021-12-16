@@ -190,6 +190,9 @@
 			<Item Name="Reserve Feed.vi" Type="VI" URL="../Feed/Commands/Reserve Feed.vi"/>
 			<Item Name="Reserve Singulator.vi" Type="VI" URL="../Singulator/Commands/Reserve Singulator.vi"/>
 			<Item Name="OneShotPulse.vi" Type="VI" URL="../../Dawgma Programming Library/Utilities/OneShotPulse.vi"/>
+			<Item Name="Advanced Align.vi" Type="VI" URL="../Drive/Advanced Align.vi"/>
+			<Item Name="SeekTarget.vi" Type="VI" URL="../Drive/Commands/SeekTarget.vi"/>
+			<Item Name="VisionPath.vi" Type="VI" URL="../Drive/Commands/VisionPath.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
